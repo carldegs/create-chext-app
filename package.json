@@ -1,0 +1,17 @@
+{
+  "name": "create-chext-app",
+  "version": "1.0.0",
+  "description": "Create a NextJS + Chakra UI project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-chext-app": "bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
